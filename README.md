@@ -25,7 +25,7 @@ Hands-free fishing made easy.
 * **Auto Fish** for passive catches
 * **Auto Shake** for easy hook timing
 * **Faster Shake** for quicker response
-
+* **Enter how much money you want and it will fish for you until you make that amount of money** for an easier game
 ### ✅ Accessibility & Simplicity
 
 Anyone can use it, instantly.
